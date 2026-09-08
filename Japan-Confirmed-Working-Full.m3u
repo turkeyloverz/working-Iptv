@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Japan | News",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | News",FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | News",MBSニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | News",日テレNEWSセレクト
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | News",共同通信
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | News",NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | News",オリコンニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | Business",Stock Voice
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | Business",Bloomberg TV+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | International",Euronews
+https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | International",Reuters 60
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japan | FAST",FAST Business/News
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+
+#EXTINF:-1 group-title="Japan | FAST",FAST Entertainment
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+
+#EXTINF:-1 group-title="Japan | International",NHK WORLD-JAPAN
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 group-title="Japan | Shopping",QVC Japan
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+
+#EXTINF:-1 group-title="Japan | Shopping",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 group-title="Japan | Weather",Weathernews LiVE
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+#EXTINF:-1 group-title="Japan | Shopping",GSTV
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 group-title="Japan | Religious",CGNTV Japan
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
