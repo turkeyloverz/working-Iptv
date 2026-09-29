@@ -12,7 +12,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rak
 #EXTINF:-1 tvg-id="rch_101" tvg-name="日テレNEWSセレクト" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/110_ntvnewsselect.png" group-title="Japan | News",日テレNEWSセレクト
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_56" tvg-name="共同通信News" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="Japan | News",共同通信
+#EXTINF:-1 tvg-id="rch_56" tvg-name="共同通信News" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="Japan | News",共同通信News
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rch_103" tvg-name="NewsWorld" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_NewsWorld.png" group-title="Japan | News",NewsWorld
@@ -33,10 +33,10 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakuten
 #EXTINF:-1 tvg-id="rch_120" tvg-name="Reuters 60" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_reuters.png" group-title="Japan | International",Reuters 60
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FAST Business/News" group-title="Japan | FAST",FAST Business/News
+#EXTINF:-1 tvg-name="ビジネス・プレミアム" group-title="Japan | FAST",ビジネス・プレミアム
 https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
 
-#EXTINF:-1 tvg-name="FAST Entertainment" group-title="Japan | FAST",FAST Entertainment
+#EXTINF:-1 tvg-name="エンタメニュース" group-title="Japan | FAST",エンタメニュース
 https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" group-title="Japan | International",NHK WORLD-JAPAN
@@ -57,3 +57,78 @@ https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9
 #EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV Japan" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Japan | Religious",CGNTV Japan
 #EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png" group-title="Japan | Sports",GOLF LIFE
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+
+#EXTINF:-1 tvg-id="rch_89" tvg-name="TOP BARÇA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/top_barca.png" group-title="Japan | Sports",TOP BARÇA
+https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_samri.png" group-title="Japan | Drama & Variety",時代劇TV
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/leminotv.png" group-title="Japan | Drama & Variety",LeminoTV
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_asdrm.png" group-title="Japan | Drama & Variety",エンタメ・アジア
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+
+#EXTINF:-1 tvg-id="rch_73" tvg-name="手塚プロダクションTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_73.png" group-title="Japan | Anime & Kids",手塚プロダクションTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_65.png" group-title="Japan | Anime & Kids",キッズ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_kids.png" group-title="Japan | Anime & Kids",アニマックス FREE
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+
+#EXTINF:-1 tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_70s.png" group-title="Japan | Music",that's 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_80s.png" group-title="Japan | Music",that's 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rch_106" tvg-name="that’s 90s00s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_90s00s.png" group-title="Japan | Music",that's 90s00s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rch_107" tvg-name="that’s Rock" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_rock.png" group-title="Japan | Music",that's Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_pett1.png" group-title="Japan | Lifestyle",ペットTV
+https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_camng.png" group-title="Japan | Lifestyle",キャンプ・アウトドア
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_travl.png" group-title="Japan | Lifestyle",今日のごはんなに?
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_recip.png" group-title="Japan | Lifestyle",観るたび
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+
+#EXTINF:-1 tvg-id="rch_113" tvg-name="ぷれいば！" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_113.png" group-title="Japan | Culture & Hobbies",ぷれいば！
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rch_86" tvg-name="ワンニャンチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_86.png" group-title="Japan | Lifestyle",ワンニャンチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_news1.png" group-title="Japan | Regional",丸ごと九州
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_jpthp.png" group-title="Japan | Culture & Hobbies",ぴあ落語ざんまい
+https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fashionplus.png" group-title="Japan | Lifestyle",FASHIONPLUS
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_goshogi.png" group-title="Japan | Culture & Hobbies",囲碁・将棋ライト
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_hokkaido.png" group-title="Japan | Regional",丸ごと北海道
+https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_tokai.png" group-title="Japan | Regional",東海ロキポ
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png" group-title="Japan | Drama & Variety",韓流チャンネル
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
