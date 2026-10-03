@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="rch_88" tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Japan | General",TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Japan | News",日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
@@ -33,10 +36,10 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakuten
 #EXTINF:-1 tvg-id="rch_120" tvg-name="Reuters 60" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_reuters.png" group-title="Japan | International",Reuters 60
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ビジネス・プレミアム" group-title="Japan | FAST",ビジネス・プレミアム
+#EXTINF:-1 tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム" group-title="Japan | Fast TV",ビジネス・プレミアム
 https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
 
-#EXTINF:-1 tvg-name="エンタメニュース" group-title="Japan | FAST",エンタメニュース
+#EXTINF:-1 tvg-id="fastch_v2_entns" tvg-name="オリコンニュース" group-title="Japan | Fast TV",オリコンニュース
 https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" group-title="Japan | International",NHK WORLD-JAPAN
@@ -129,6 +132,9 @@ https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
 
 #EXTINF:-1 tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_tokai.png" group-title="Japan | Regional",東海ロキポ
 https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_17live" tvg-name="Free TV NEWS Powered by 17LIVE" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/17live/channel_logo" group-title="Japan | News",Free TV NEWS Powered by 17LIVE
+https://livetv.fastv.jp/channel_assembly/699989FA00007532CED8/master.m3u8
 
 #EXTINF:-1 tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png" group-title="Japan | Drama & Variety",韓流チャンネル
 https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
